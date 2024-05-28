@@ -1,0 +1,15 @@
+artifact_uri: file:///home/marcos/GitHub/mlops-zoomcamp/01-experiment-tracking/mlruns/0/72ea58999b154b9d9608b58846128d0d/artifacts
+end_time: 1716911217940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72ea58999b154b9d9608b58846128d0d
+run_name: nimble-asp-76
+run_uuid: 72ea58999b154b9d9608b58846128d0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716911200002
+status: 3
+tags: []
+user_id: marcos
