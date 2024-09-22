@@ -1,0 +1,6 @@
+artifact_location: /home/marcos/GitHub/mlops-zoomcamp/01-mlflow-tracking/mlruns/474405561834174778
+creation_time: 1727024594420
+experiment_id: '474405561834174778'
+last_update_time: 1727024594420
+lifecycle_stage: active
+name: taxi-trip

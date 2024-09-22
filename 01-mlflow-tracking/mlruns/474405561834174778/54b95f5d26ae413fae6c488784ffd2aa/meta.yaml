@@ -1,0 +1,15 @@
+artifact_uri: /home/marcos/GitHub/mlops-zoomcamp/01-mlflow-tracking/mlruns/474405561834174778/54b95f5d26ae413fae6c488784ffd2aa/artifacts
+end_time: 1727024599213
+entry_point_name: ''
+experiment_id: '474405561834174778'
+lifecycle_stage: active
+run_id: 54b95f5d26ae413fae6c488784ffd2aa
+run_name: Lasso model with alpha=0.2
+run_uuid: 54b95f5d26ae413fae6c488784ffd2aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727024598796
+status: 3
+tags: []
+user_id: marcos

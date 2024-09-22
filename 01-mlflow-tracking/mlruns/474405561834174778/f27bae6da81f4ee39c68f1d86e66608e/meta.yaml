@@ -1,0 +1,15 @@
+artifact_uri: /home/marcos/GitHub/mlops-zoomcamp/01-mlflow-tracking/mlruns/474405561834174778/f27bae6da81f4ee39c68f1d86e66608e/artifacts
+end_time: 1727024599633
+entry_point_name: ''
+experiment_id: '474405561834174778'
+lifecycle_stage: active
+run_id: f27bae6da81f4ee39c68f1d86e66608e
+run_name: Parent Experiment
+run_uuid: f27bae6da81f4ee39c68f1d86e66608e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727024595578
+status: 3
+tags: []
+user_id: marcos

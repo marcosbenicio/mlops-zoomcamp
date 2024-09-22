@@ -1,0 +1,15 @@
+artifact_uri: /home/marcos/GitHub/mlops-zoomcamp/01-mlflow-tracking/mlruns/474405561834174778/3e49d96fe8f444dfa55a335eb01f2379/artifacts
+end_time: 1727024694233
+entry_point_name: ''
+experiment_id: '474405561834174778'
+lifecycle_stage: active
+run_id: 3e49d96fe8f444dfa55a335eb01f2379
+run_name: xgboost
+run_uuid: 3e49d96fe8f444dfa55a335eb01f2379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727024687351
+status: 3
+tags: []
+user_id: marcos
